@@ -1,2 +1,2 @@
 # TP-DDS-2019
-Trabajo práctico Diseño de Sistemas UTN 2019 - "Qué me pongo"
+Trabajo práctico Diseño de Sistemas UTN 2019 **aprobado** - "Qué me pongo"
