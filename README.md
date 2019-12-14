@@ -1,5 +1,5 @@
 # TP-DDS-2019
-Trabajo práctico Diseño de Sistemas UTN 2019 **aprobado** - "Qué me pongo"
+"Qué me pongo" - Trabajo práctico Diseño de Sistemas UTN 2019 **aprobado**
 ## Diagrama de clases y diagrama de arquitectura
 [Diagrama de clases](https://drive.google.com/open?id=1X1QTX5muJ-ye3qMHNaE6SHql5emgWFmG)
 
